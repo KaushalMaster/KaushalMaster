@@ -11,6 +11,8 @@ Full Stack Web Developer, Street and Wild-Life Photographer, Cinemotographer, Ca
 * 🤝  I'm open to collaborating on All Full stack Projects, Full stack ecommerce projects and single page web pages
 * ⚡  Currently working as a full stack python django developer at OQPY.in
 
+[![An image of @thenobody121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushalmaster)](https://holopin.io/@kaushalmaster)
+
 ### Skills
 
 
